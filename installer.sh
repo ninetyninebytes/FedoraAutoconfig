@@ -17,7 +17,7 @@ echo "Please Choose an Option"
 echo
 echo "S: Start the Installation"
 echo "C: Cancel the Installation and Exit"
-echo "R: Check the README.md file (only works if you have gedit installed)"
+echo "R: Check the README.md file"
 echo "A: Acknowledgements & Credits"
 
 while true; do
