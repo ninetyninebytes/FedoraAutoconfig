@@ -8,5 +8,5 @@ mkdir setup-extras
 cd setup-extras
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 dnf -y install ./google*.rpm
-wget https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/code-1.75.1-1675893486.el7.x86_64.rpm
+wget https://az764295.vo.msecnd.net/stable/92da9481c0904c6adfe372c12da3b7748d74bdcb/code-1.76.0-1677667581.el7.x86_64.rpm
 dnf -y install ./code*.rpm
